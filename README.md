@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyashi Jha</h1>
-<h3 align="center">A passionate developer from INDIA</h3>
+<h3 align="center">A passionate learner exploring Data Structures, Cloud Development, and Linux Systems</h3>
 
 🌱 **Currently Learning**
 - 📘 Data Structures & Algorithms (Leetcode, GFG, Codeforces)
