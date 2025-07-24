@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shreyashi Jha</h1>
 <h3 align="center">A passionate developer from INDIA</h3>
 
+🌱 **Currently Learning**
+- 📘 Data Structures & Algorithms (Leetcode, GFG, Codeforces)
+- ☁️ Cloud Development (AWS, DevOps fundamentals)
+- 🐧 Advanced Linux concepts (Completed RHCSA course by RedHat)
+
+🧠 **Skills & Interests**
+- Programming: C++, Java, Python
+- Linux Server Administration (RHCSA Certified)
+- Exploring Docker, GitHub Actions, CI/CD pipelines
+- Frontend Tech: HTML, CSS, JavaScript (Learning Full Stack gradually)
+
+📈 **Goals for 2025**
+- Master DSA for competitive coding
+- Earn AWS Cloud Practitioner or DevOps Engineer certification
+- Contribute to Open Source projects
+- Build and deploy real-world full stack applications
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitbyshreya17&label=Profile%20views&color=0e75b6&style=flat" alt="bitbyshreya17" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bitbyshreya17" alt="bitbyshreya17" /></a> </p>
